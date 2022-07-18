@@ -31,7 +31,7 @@ github_username:  jekyll
 gitlab_username:  pages
 
 # Build settings
-theme: jekyll-theme-dinky
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
